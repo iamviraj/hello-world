@@ -1,2 +1,3 @@
 # hello-world
 an experimental test
+i am here to minimize the need of me to write the codes bcz i am very bad at it....
